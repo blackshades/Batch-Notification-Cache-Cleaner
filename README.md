@@ -13,3 +13,4 @@ Double click/tap on the .bat file to run it, click/tap on Run (if prompted by UA
 
 If successful, command prompt will ask you to restart your computer.
 
+Donate BTC: 19bgn6iTSmUbfvbqFNEheHALGc8wn8n5Lf
