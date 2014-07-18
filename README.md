@@ -3,8 +3,6 @@ Batch-Notification-Cache-Cleaner
 
 Gets rid of Notification Cache
 
-
-
 How to use:
 
 Download the file
